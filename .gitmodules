@@ -1,0 +1,3 @@
+[submodule "projects/powermon"]
+	path = projects/powermon
+	url = git@github.com:goldmonger/powermon.git
