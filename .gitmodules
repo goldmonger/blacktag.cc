@@ -1,3 +1,9 @@
 [submodule "projects/powermon"]
 	path = projects/powermon
 	url = git@github.com:goldmonger/powermon.git
+[submodule "projects/friend_circle"]
+	path = projects/friend_circle
+	url = git@github.com:goldmonger/friend_circle.git
+[submodule "projects/vpn"]
+	path = projects/vpn
+	url = git@github.com:goldmonger/vpn.git
